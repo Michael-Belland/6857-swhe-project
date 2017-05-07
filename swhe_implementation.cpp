@@ -1,5 +1,4 @@
-/* Test_General.cpp - A general test program that uses a mix of 
-operations over four ciphertexts.
+/* 6857_SwHE_project.cpp - implementing circuit primitives goes here
  */
 
 #include <NTL/ZZ.h> 
